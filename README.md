@@ -1,4 +1,4 @@
-- 👋Hi,I am Aditya Sharma                                                                      
+                                                                        👋Hi,I am Aditya Sharma                                                                      
                                                                                 
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Node.JS
